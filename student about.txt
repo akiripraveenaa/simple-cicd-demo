@@ -1,0 +1,5 @@
+name"praveena"
+course"bsc.ai"
+section"A"
+college"aditya degree college"
+
